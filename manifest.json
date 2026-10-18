@@ -1,19 +1,19 @@
 {
   "app_name": "Huan Pham",
-  "latest_version": "7.2.8",
+  "latest_version": "7.2.9",
   "channels": {
     "stable": {
-      "version": "7.2.8",
+      "version": "7.2.9",
       "release_date": "2026-10-18",
-      "size_mb": 451.59,
-      "package_filename": "Huan-Pham-Core-Setup-7.2.8.exe",
-      "download_url": "https://github.com/minhhuanit91-sudo/huan-pham-releases/releases/download/v7.2.8/Huan-Pham-Core-Setup-7.2.8.exe",
-      "sha256": "7E6C14F22203CBDD4D582F19A7C15DDD44AE7492694F761DABB6EA881FE4E42B",
+      "size_mb": 451.6,
+      "package_filename": "Huan-Pham-Core-Setup-7.2.9.exe",
+      "download_url": "https://github.com/minhhuanit91-sudo/huan-pham-releases/releases/download/v7.2.9/Huan-Pham-Core-Setup-7.2.9.exe",
+      "sha256": "9D58BB69E1F6F52C7270E69F37D2ACE211F66B6D642A98C1423172D8E3819A00",
       "update_package": {
-        "package_filename": "Huan-Pham-Update-7.2.8.zip",
+        "package_filename": "Huan-Pham-Update-7.2.9.zip",
         "size_mb": 0.48,
-        "download_url": "https://github.com/minhhuanit91-sudo/huan-pham-releases/releases/download/v7.2.8/Huan-Pham-Update-7.2.8.zip",
-        "sha256": "8CBC4273F16BF121C8EE45A51F9574A6F1024345BFDF69A452EA0E9EDC6B90FB"
+        "download_url": "https://github.com/minhhuanit91-sudo/huan-pham-releases/releases/download/v7.2.9/Huan-Pham-Update-7.2.9.zip",
+        "sha256": "0E4FF02C66E52F5AD61D1E909BCD49D96FA66B7F856F3D63B4EBA852D47CE146"
       },
       "models_package": {
         "package_filename": "huanpham-models-v3turbo.zip",
@@ -22,9 +22,9 @@
         "sha256": "A109FB400D8461C1638D3C64079EA07C3D258C2FBE32BEEE17FB5988618B51A9"
       },
       "min_windows_version": "10.0.19041",
-      "changelog": "Huan Pham v7.2.8: In-App AI Voice Setup & Clean Machine Self-Provisioning"
+      "changelog": "Huan Pham v7.2.9: Precise CPU/GPU disk requirements, Settings UI refinement & Clean Machine Self-Provisioning"
     }
   },
   "signature_algorithm": "ed25519",
-  "signature": "bt8wr1J4N7UD1g6ZJmZ3TH3WEs4zSlgyFmunm3j2T1zxvYJRPYDuQ/HrNFJUJIDNWWAQjGs52EzzvVJJO+0fCg=="
+  "signature": "TB/oUyQNcnkFEo87QYh4IpwMfqxFPtduosgv2B+YuGO0hrAltwWcFt+krmikGXipEfs4a4hDEtfCWSm/MVvaBQ=="
 }
